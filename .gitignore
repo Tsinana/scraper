@@ -1,2 +1,4 @@
-/server/data.db
+/lab1/server/data.db
 /.idea/dataSources.xml
+/lab1/server/.venv/
+/lab2/.venv/

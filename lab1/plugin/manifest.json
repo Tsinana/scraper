@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "XPath Data Extractor",
-  "version": "1.0",
+  "version": "2.0",
   "description": "Извлекает данные с сайта с помощью XPath и отправляет их на localhost:8000",
   "permissions": [
     "scripting",
