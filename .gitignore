@@ -1,4 +1,6 @@
-/lab1/server/data.db
 /.idea/dataSources.xml
 /lab1/server/.venv/
 /lab2/.venv/
+/lab1/server/*.db
+/lab2/*.txt
+/lab2/*.xlsx

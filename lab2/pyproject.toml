@@ -1,0 +1,14 @@
+[project]
+name = "lab2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "nltk>=3.9.1",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "pymorphy2>=0.9.1",
+    "scikit-learn>=1.6.1",
+    "setuptools>=78.0.1",
+]
